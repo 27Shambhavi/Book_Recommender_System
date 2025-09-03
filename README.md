@@ -33,8 +33,3 @@ popular.pkl → Most popular books
 pt.pkl → Pivot table (user-item matrix)
 
 similarity_scores.pkl → Pre-computed similarity matrix
-🌐 Usage
-
-Open your browser → Go to http://127.0.0.1:5000/
-
-Type a book title in the search box and see recommendations or browse Popular Books.
